@@ -116,7 +116,7 @@ In the root directory of the project, create a file named `.env` and add the fol
 NEXT_PUBLIC_PROJECT_ID=your-project-id
 ```
 
-**Obtain Your Project ID**
+### Obtain Your Project ID
 
 To get your `your-project-id` value:
 
