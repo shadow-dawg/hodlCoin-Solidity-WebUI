@@ -48,7 +48,7 @@
 ---
 
 <div align="center">
-<h1>hoodlCoin</h1>
+<h1>hodlCoin</h1>
 </div>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). The platform provides a modern web interface for decentralized auction trading, built with cutting-edge web technologies.
