@@ -108,7 +108,7 @@ pnpm install
 
 Before running the project locally, you need to set up an environment variable with your Project ID. Follow these steps:
 
-**Create a `.env` File**
+### Create a `.env` File
 
 In the root directory of the project, create a file named `.env` and add the following line:
 
