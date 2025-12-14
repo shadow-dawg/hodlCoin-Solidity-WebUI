@@ -88,8 +88,8 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/StabilityNexus/HammerAuctionHouse-WebUI.git
-cd HammerAuctionHouse-WebUI
+git clone https://github.com/StabilityNexus/hodlCoin-Solidity-WebUI.git
+cd hodlCoin-Solidity-WebUI
 ```
 
 #### 2. Install Dependencies
